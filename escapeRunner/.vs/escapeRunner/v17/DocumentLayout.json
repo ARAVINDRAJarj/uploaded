@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{986E267B-B79D-6307-9390-3C166BD5EE3E}|Assembly-CSharp.csproj|C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\assets\\scripts\\treespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986E267B-B79D-6307-9390-3C166BD5EE3E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\treespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986E267B-B79D-6307-9390-3C166BD5EE3E}|Assembly-CSharp.csproj|C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986E267B-B79D-6307-9390-3C166BD5EE3E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986E267B-B79D-6307-9390-3C166BD5EE3E}|Assembly-CSharp.csproj|C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986E267B-B79D-6307-9390-3C166BD5EE3E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986E267B-B79D-6307-9390-3C166BD5EE3E}|Assembly-CSharp.csproj|C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\assets\\scripts\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986E267B-B79D-6307-9390-3C166BD5EE3E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986E267B-B79D-6307-9390-3C166BD5EE3E}|Assembly-CSharp.csproj|C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\assets\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986E267B-B79D-6307-9390-3C166BD5EE3E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986E267B-B79D-6307-9390-3C166BD5EE3E}|Assembly-CSharp.csproj|C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\assets\\scripts\\snakespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986E267B-B79D-6307-9390-3C166BD5EE3E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\snakespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986E267B-B79D-6307-9390-3C166BD5EE3E}|Assembly-CSharp.csproj|C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\assets\\scripts\\coinspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986E267B-B79D-6307-9390-3C166BD5EE3E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coinspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986E267B-B79D-6307-9390-3C166BD5EE3E}|Assembly-CSharp.csproj|C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\assets\\scripts\\obstaclespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986E267B-B79D-6307-9390-3C166BD5EE3E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstaclespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986E267B-B79D-6307-9390-3C166BD5EE3E}|Assembly-CSharp.csproj|C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\assets\\scripts\\tilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986E267B-B79D-6307-9390-3C166BD5EE3E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986E267B-B79D-6307-9390-3C166BD5EE3E}|Assembly-CSharp.csproj|c:\\users\\aravi\\onedrive\\desktop\\unity_works\\escaperunner\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986E267B-B79D-6307-9390-3C166BD5EE3E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TreeSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\Assets\\Scripts\\TreeSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TreeSpawner.cs",
+              "ToolTip": "C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\Assets\\Scripts\\TreeSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TreeSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T15:58:16.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\Assets\\Scripts\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoundManager.cs",
+              "ToolTip": "C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\Assets\\Scripts\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T14:10:41.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:19:41.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartMenu.cs",
+              "DocumentMoniker": "C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\Assets\\Scripts\\StartMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartMenu.cs",
+              "ToolTip": "C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\Assets\\Scripts\\StartMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T11:05:54.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameOverManager.cs",
+              "DocumentMoniker": "C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\Assets\\Scripts\\GameOverManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOverManager.cs",
+              "ToolTip": "C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\Assets\\Scripts\\GameOverManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOverManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:24:46.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SnakeSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\Assets\\Scripts\\SnakeSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SnakeSpawner.cs",
+              "ToolTip": "C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\Assets\\Scripts\\SnakeSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SnakeSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:12:59.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoinSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\Assets\\Scripts\\CoinSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CoinSpawner.cs",
+              "ToolTip": "C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\Assets\\Scripts\\CoinSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CoinSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T07:33:31.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ObstacleSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\Assets\\Scripts\\ObstacleSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObstacleSpawner.cs",
+              "ToolTip": "C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\Assets\\Scripts\\ObstacleSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObstacleSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T07:02:20.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TileManager.cs",
+              "DocumentMoniker": "C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\Assets\\Scripts\\TileManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TileManager.cs",
+              "ToolTip": "C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\Assets\\Scripts\\TileManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TileManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:45:37.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\aravi\\OneDrive\\Desktop\\unity_works\\escapeRunner\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:31:15.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
